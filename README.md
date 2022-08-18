@@ -1,4 +1,3 @@
-<img src="https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg">
 <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Saad Aamir</h1>
 <h3 align="center">A passionate Game developer from Pakistan</h3>
