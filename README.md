@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with [AI Integration into Unity](https://assetstore.unity.com/packages/tools/ai/gpt-ai-integration-243729)
 
-- 👨‍💻 All of my projects are available at [http://saadcodes.tk/](http://saadcodes.tk/)
+- 👨‍💻 All of my projects are available at [http://saadcodes.netlify.app/](http://saadcodes.netlify.app/)
 
 - 💬 Ask me about **Unity C#, Game dev, AR, VR, Multiplayer Games, Crossplatform Android IOS Apps**
 
 - 📫 How to reach me **saadaamir3047@gmail.com**
 
-- 📄 Know about my experiences [http://saadcodes.tk/](http://saadcodes.tk/)
+- 📄 Know about my experiences [http://saadcodes.netlify.app/](http://saadcodes.netlify.app/)
 
 - ⚡ Fun fact **I love to play with water in pool!🤣**
 
