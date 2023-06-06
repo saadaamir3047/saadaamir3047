@@ -8,21 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/iamsaadaamir" target="blank"><img src="https://img.shields.io/twitter/follow/iamsaadaamir?logo=twitter&style=for-the-badge" alt="iamsaadaamir" /></a> </p>
 
-- 🔭 I’m currently working on: [The Best Custom Boxes](https://thebestcustomboxes.com/)
+- 🔭 I’m currently working on: [Safrootics](https://safrootics.com/)
 
-- 🌱 I’m currently learning **React, Express, Node, Mongo, Dockers**
+- 🌱 I’m currently learning **Unreal Engine for AAA Games, AR VR, Web3, MERN + Docker**
 
-- 👯 I’m looking to collaborate on [Scout APM](http://scoutapm.com/)
+- 👯 I’m looking to collaborate on [3D Game Shaders](https://github.com/lettier/3d-game-shaders-for-beginners)
 
-- 🤝 I’m looking for help with [Tap Sourcing ERP](https://tapsourcing.com/)
+- 🤝 I’m looking for help with [AI Integration into Unity](https://assetstore.unity.com/packages/tools/ai/gpt-ai-integration-243729)
 
-- 👨‍💻 All of my projects are available at [http://saadweb.tk/](http://saadweb.tk/)
+- 👨‍💻 All of my projects are available at [http://saadcodes.tk/](http://saadcodes.tk/)
 
-- 💬 Ask me about **React, Express, Node, Mongo, Game dev, Unity**
+- 💬 Ask me about **Unity C#, Game dev, AR, VR, Multiplayer Games, Crossplatform Android IOS Apps**
 
 - 📫 How to reach me **saadaamir3047@gmail.com**
 
-- 📄 Know about my experiences [http://saadweb.tk/](http://saadweb.tk/)
+- 📄 Know about my experiences [http://saadcodes.tk/](http://saadcodes.tk/)
 
 - ⚡ Fun fact **I love to play with water in pool!🤣**
 
